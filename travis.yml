@@ -6,4 +6,4 @@ script:
 after_success:
   - docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
   - docker tag cloud $DOCKER_USER/cloudlab
-  - docker push $DOCKER_USER/mastercloud
+  - docker push $DOCKER_USER/cloudlab
