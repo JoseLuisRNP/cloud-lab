@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JoseLuisRNP/cloud-lab.svg?branch=master)](https://travis-ci.org/JoseLuisRNP/cloud-lab)
+
 # PRÁCTICAS MÓDULO CLOUD
 
 ## Preparación
